@@ -1,7 +1,13 @@
 # 2020/09/03/Thr, 1731017 김민경
 
-https://github.com/holystar97/WEB_PROGRAMMING/issues/1#issue-691881881
-
+<div>
+<img width="451" alt="스크린샷 2020-09-03 오후 6 30 20" src="https://user-images.githubusercontent.com/35961898/92108614-a2738580-ee22-11ea-94b9-ef813317bc59.png">
+<img width="366" alt="스크린샷 2020-09-03 오후 8 07 26" src="https://user-images.githubusercontent.com/35961898/92108622-a4d5df80-ee22-11ea-92fc-76c7f867a707.png">
+<img width="504" alt="스크린샷 2020-09-03 오후 6 28 16" src="https://user-images.githubusercontent.com/35961898/92108626-a56e7600-ee22-11ea-9398-b301141492aa.png">
+<img width="249" alt="스크린샷 2020-09-03 오후 8 01 55" src="https://user-images.githubusercontent.com/35961898/92108627-a56e7600-ee22-11ea-83dc-2f6254d5e878.png">
+<img width="626" alt="스크린샷 2020-09-03 오후 6 38 15" src="https://user-images.githubusercontent.com/35961898/92108631-a6070c80-ee22-11ea-8de1-92534126643c.png">
+<img width="565" alt="스크린샷 2020-09-03 오후 6 37 29" src="https://user-images.githubusercontent.com/35961898/92108644-aa332a00-ee22-11ea-928a-041dad482ccc.png">
+</div>
 #### 1. 오늘 강의의 주요 주제들은?
 
 
