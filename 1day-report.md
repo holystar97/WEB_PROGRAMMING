@@ -1,13 +1,6 @@
 # 2020/09/03/Thr, 1731017 김민경
 
-<div>
-<img width="451" alt="스크린샷 2020-09-03 오후 6 30 20" src="https://user-images.githubusercontent.com/35961898/92108614-a2738580-ee22-11ea-94b9-ef813317bc59.png">
-<img width="366" alt="스크린샷 2020-09-03 오후 8 07 26" src="https://user-images.githubusercontent.com/35961898/92108622-a4d5df80-ee22-11ea-92fc-76c7f867a707.png">
-<img width="504" alt="스크린샷 2020-09-03 오후 6 28 16" src="https://user-images.githubusercontent.com/35961898/92108626-a56e7600-ee22-11ea-9398-b301141492aa.png">
-<img width="249" alt="스크린샷 2020-09-03 오후 8 01 55" src="https://user-images.githubusercontent.com/35961898/92108627-a56e7600-ee22-11ea-83dc-2f6254d5e878.png">
-<img width="626" alt="스크린샷 2020-09-03 오후 6 38 15" src="https://user-images.githubusercontent.com/35961898/92108631-a6070c80-ee22-11ea-8de1-92534126643c.png">
-<img width="565" alt="스크린샷 2020-09-03 오후 6 37 29" src="https://user-images.githubusercontent.com/35961898/92108644-aa332a00-ee22-11ea-928a-041dad482ccc.png">
-</div>
+
 #### 1. 오늘 강의의 주요 주제들은?
 
 
@@ -95,8 +88,7 @@
 </body>
 </html>
 ```
-
-![스크린샷 2020-09-03 오후 6.28.16](/Users/mkrice/Desktop/스크린샷 2020-09-03 오후 6.28.16.png)
+<img width="504" alt="스크린샷 2020-09-03 오후 6 28 16" src="https://user-images.githubusercontent.com/35961898/92110014-fed7a480-ee24-11ea-9296-08e4c6985f31.png">
 
 
 
@@ -160,9 +152,8 @@ html은 이와 같은 메타 정보를 표현하기 위해 여러 tag 를 가진
 </html>
 ```
 
+<img width="451" alt="스크린샷 2020-09-03 오후 6 30 20" src="https://user-images.githubusercontent.com/35961898/92110058-11ea7480-ee25-11ea-8599-a4596f8db114.png">
 
-
-![스크린샷 2020-09-03 오후 6.30.20](/Users/mkrice/Desktop/스크린샷 2020-09-03 오후 6.30.20.png)
 
 `<ol>, <ul>,<dl>`  리스트 만들기 tag
 
@@ -195,8 +186,7 @@ html은 이와 같은 메타 정보를 표현하기 위해 여러 tag 를 가진
 </body>
 </html>
 ```
-
-![스크린샷 2020-09-03 오후 6.33.06](/Users/mkrice/Desktop/스크린샷 2020-09-03 오후 6.33.06.png)
+<img width="759" alt="스크린샷 2020-09-03 오후 6 33 06" src="https://user-images.githubusercontent.com/35961898/92110080-1dd63680-ee25-11ea-899a-0de2497fe20c.png">
 
 
 
@@ -239,8 +229,8 @@ html은 이와 같은 메타 정보를 표현하기 위해 여러 tag 를 가진
 </body>
 </html>
 ```
+<img width="565" alt="스크린샷 2020-09-03 오후 6 37 29" src="https://user-images.githubusercontent.com/35961898/92110116-2fb7d980-ee25-11ea-9974-88e53ea1f7c9.png">
 
-![스크린샷 2020-09-03 오후 6.37.29](/Users/mkrice/Desktop/스크린샷 2020-09-03 오후 6.37.29.png)
 
 `<iframe>` 인라인 프레임 만들기 tag
 
@@ -260,9 +250,7 @@ html은 이와 같은 메타 정보를 표현하기 위해 여러 tag 를 가진
 </html>
 ```
 
-
-
-![스크린샷 2020-09-03 오후 6.38.15](/Users/mkrice/Desktop/스크린샷 2020-09-03 오후 6.38.15.png)
+<img width="626" alt="스크린샷 2020-09-03 오후 6 38 15" src="https://user-images.githubusercontent.com/35961898/92110151-3e05f580-ee25-11ea-9d4c-08f023aed609.png">
 
 target 속성은 `<a>, <base>, <area>, <form> ` tag에서 html 페이지를 출력할 윈도우를 지정하는 데 사용된다.
 
@@ -372,8 +360,7 @@ target 속성은 `<a>, <base>, <area>, <form> ` tag에서 html 페이지를 출�
 </body>
 </html>
 ```
-
-![스크린샷 2020-09-03 오후 8.01.55](/Users/mkrice/Desktop/스크린샷 2020-09-03 오후 8.01.55.png)
+<img width="249" alt="스크린샷 2020-09-03 오후 8 01 55" src="https://user-images.githubusercontent.com/35961898/92110198-4eb66b80-ee25-11ea-9a2f-3166fc5f43a4.png">
 
 `name` : 폼의 이름을 지정하는 속성 
 
@@ -446,8 +433,7 @@ Get/ post 방식이 있다.
 </html>
 ```
 
-![스크린샷 2020-09-03 오후 8.07.26](/Users/mkrice/Desktop/스크린샷 2020-09-03 오후 8.07.26.png)
-
+<img width="366" alt="스크린샷 2020-09-03 오후 8 07 26" src="https://user-images.githubusercontent.com/35961898/92110229-5b3ac400-ee25-11ea-8729-4c5eefe634a3.png">
 
 
 
@@ -488,9 +474,7 @@ Get/ post 방식이 있다.
 ```
 
 
-
-![스크린샷 2020-09-03 오후 8.08.41](/Users/mkrice/Desktop/스크린샷 2020-09-03 오후 8.08.41.png)
-
+<img width="461" alt="스크린샷 2020-09-03 오후 8 08 41" src="https://user-images.githubusercontent.com/35961898/92110254-64c42c00-ee25-11ea-9ac1-dd9e3d7700d6.png">
 
 
 여기서 name 은 모두 같게 설정하는데, 이는 후에 자바스크립트에서 항목을 묶는데 사용된다.
