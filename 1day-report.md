@@ -1,5 +1,7 @@
 # 2020/09/03/Thr, 1731017 김민경
 
+https://github.com/holystar97/WEB_PROGRAMMING/issues/1#issue-691881881
+
 #### 1. 오늘 강의의 주요 주제들은?
 
 
